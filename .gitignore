@@ -39,3 +39,5 @@ lib/generated_plugin_registrant.dart
 
 # Big Assets
 *.psd
+
+android/app/credentials/
