@@ -1,4 +1,4 @@
-# fancyscrumpoker
+# Fancy Scrum Poker
 
 Fancy Scrum Poker is an Android App that lets you vote for Scrum Tasks and also keep a record of all your votes.
 
